@@ -1,6 +1,6 @@
 # Besoin
 
-### Cadre Technique
+## Cadre Technique
 **Obligatoire**
 
  - Utilisation de Github pour versionner le code en créant un fork du projet
@@ -12,7 +12,7 @@
  - TNR
  - Github actions / Jenkins
 
-### Les différents besoins
+## Les différents besoins
 **Connaître les lieux de sport**
 
 Decathlon souhaite fournir à ses clients un nouveau service pour connaître l'ensemble des lieux permettant la pratique de sport (salle de sport, terrain de foot, parc, ...)
