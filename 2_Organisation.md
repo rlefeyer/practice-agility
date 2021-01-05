@@ -8,13 +8,12 @@
 ## 2. Planning
  - Durée : 3 jours / 6 sprints d'1/2 journée ==> 1ere démo 11h30 :)
  - Sprint : 1 Sprint planning, 1 Sprint Review et 1 Sprint retrospective
- - Méthodologie : Scrum, kanban, Scrumban
+ - Méthodologie : Scrum
 
 Objectif : Livrer plus, s'améliorer plus rapidement
 
 ## 3. Livrables
  - L'équipe : nom de l'équipe + nom et prénom des membres de l'équipe
- - Méthodologie choisie
  - Backlog priorisée
  - US : Done, In propgress, Ready, Identified
  - DOD
@@ -27,16 +26,17 @@ Objectif : Livrer plus, s'améliorer plus rapidement
 **Tout versionner dans github!**
 
 ## 4. Mes rôles
- - Client : c'est moi qui connait le besoin
- - Auditeur : c'est moi qui vais vous évaluer
+ - Client : je connais les utilisateurs et leurs problèmes, j'ai besoin de vous pour construire un produit qui réponde à leurs besoins
+ - Evaluateur : je vais aussi devoir vous noter
  - Conseiller : Je suis aussi surtout là pour vous guider, vous aider :)
 
 ## 5. Notation
  - Engagement
- - Capacité de réaction
+ - Capacité de mise en place de l'amélioration continue dans tous les domaines
  - Volonté de s'industrialiser
  - Résultat
 
+Toutes évaluées à parts égales : 5 points par catégorie.   
 Date limite du dernier commit : Vendredi 17h!
 
 ## 6. Review de la mise en pratique
