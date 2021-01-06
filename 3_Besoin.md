@@ -3,14 +3,14 @@
 ## Cadre Technique
 ### Obligatoire
 
- - Utilisation de Github pour versionner le code en créant un fork du projet
+ - Utilisation de Git pour versionner le code
  - Tests unitaires : présence obligatoire
- - Sonar (où tout autre outil d'analyse de code)
+ - Outil de surveillance de qualité du code : Sonarqube, Sonarcloud
 
 ### Optionnel
 
- - TNR
- - Github actions / Jenkins
+ - Tests de non régression
+ - Intégration et déploiement continue
 
 ## Les différents besoins
 ### Connaître les lieux de sport
@@ -19,7 +19,7 @@ Decathlon souhaite fournir à ses clients un nouveau service pour connaître l'e
 
 ### Gérer des indicateurs de santé
 
-Decathlon souhaite fournir à ses clients un nouveau service pour leur permettre de gérer l'ensemble des indicateurs de santé (poids, IMS, sommeil, fréquence cardiaque, ...)
+Decathlon souhaite fournir à ses clients un nouveau service pour leur permettre de gérer l'ensemble des indicateurs de santé (poids, IMC, sommeil, fréquence cardiaque, ...)
 
 ### Nouvelle opportunité
 
