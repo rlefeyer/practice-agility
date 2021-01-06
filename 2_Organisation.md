@@ -23,7 +23,7 @@ Objectif : Livrer plus, s'améliorer plus rapidement
  - Documentation technique
  - Realase Note
 
-**Tout versionner dans github!**
+**Tout versionner dans git!**
 
 ## 4. Mes rôles
  - Client : je connais les utilisateurs et leurs problèmes, j'ai besoin de vous pour construire un produit qui réponde à leurs besoins
@@ -42,3 +42,4 @@ Date limite du dernier commit : Vendredi 17h!
 ## 6. Review de la mise en pratique
 Rétro à chaque fin de journée avec tous les participants pour améliorer la mise en pratique tous ensemble.  
 Tous les sujets sont abordables : l'encadrant, les élèves, l'organisation, les supports ...
+Nous allons utiliser ce site : https://metroretro.io/. Vous aurez besoin d'un compte!
