@@ -22,6 +22,7 @@
 ## 4. Délivrer de la valeur le plus rapidement possible
  - Itérativement (à chaque sprint)
    * Réaliser des US
+   * Documenter
    * Packager votre solution
  - Industrialiser (automatiser les actions manuelles)
    * Tests (Tests Unitaires, Tests de Non Régression, ...)
