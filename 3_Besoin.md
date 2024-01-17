@@ -5,7 +5,7 @@
 
  - Utilisation de Git pour versioner le code
  - Tests unitaires : présence obligatoire
- - Outil de surveillance de qualité du code : Sonarcloud
+ - Outil de surveillance de qualité du code : Sonar
  - Intégration continue
 
 ### Optionnel
