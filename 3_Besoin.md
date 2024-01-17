@@ -5,12 +5,13 @@
 
  - Utilisation de Git pour versioner le code
  - Tests unitaires : présence obligatoire
- - Outil de surveillance de qualité du code : Sonarqube, Sonarcloud
+ - Outil de surveillance de qualité du code : Sonarcloud
+ - Intégration continue
 
 ### Optionnel
 
- - Tests de non régression
- - Intégration et déploiement continue
+ - Tests fonctionnels de non régression
+ - Déploiement continue
 
 ## Les différents besoins
 ### Connaître les lieux de sport
@@ -50,4 +51,4 @@ Le service peut-être rendu accessible par une IHM ou une API
 
 ### Nouvelles opportunités
 
-Décathlon est également à l'écoute de nouvelles opportunités qui pourraient leur permettre de fournir toujours plus de services à l'ensemble de ses clients
+Decathlon est également à l'écoute de nouvelles opportunités qui pourraient leur permettre de fournir toujours plus de services à l'ensemble de ses clients
