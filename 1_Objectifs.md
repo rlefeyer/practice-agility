@@ -21,7 +21,7 @@
 
 ## 4. Délivrer de la valeur le plus rapidement possible
  - Itérativement (à chaque sprint)
-   * Réaliser des US
+   * Réaliser des User Stories
    * Documenter
    * Packager votre solution
  - Industrialiser (automatiser les actions manuelles)
