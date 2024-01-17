@@ -6,7 +6,7 @@
  - Tout le monde pratique tous les rôles en simultané
 
 ## 2. Planning
- - Durée : 3 jours / 6 sprints d'1/2 journée ==> 1ere démo 11h30 :)
+ - Durée : 3 jours / 6 sprints d'1/2 journée (une démo doit avoir lieu dès le 1er sprint)
  - Sprint : 1 Daily / Sprint planning, 1 Sprint Review et 1 Sprint retrospective
  - Méthodologie : Scrum
 
@@ -23,7 +23,7 @@ Objectif : Livrer plus, s'améliorer plus rapidement
  - Documentation technique et fonctionnelle
  - Realase Note
 
-**Tout versionné dans git!**
+**Tout versionner dans git!**
 
 ## 4. Mes rôles
  - Client : je connais les utilisateurs et leurs problèmes, j'ai besoin de vous pour construire un produit qui réponde à leurs besoins
