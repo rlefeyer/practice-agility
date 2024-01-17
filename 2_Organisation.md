@@ -15,7 +15,7 @@ Objectif : Livrer plus, s'améliorer plus rapidement
 ## 3. Livrables
  - L'équipe : nom de l'équipe + nom et prénom des membres de l'équipe
  - Backlog priorisée
- - US : Done, In propgress, Ready, Identified
+ - User Story : Done, In propgress, Identified
  - Definition Of Done
  - Code
  - CR des Sprint planning, Démo, Rétro
