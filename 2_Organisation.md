@@ -29,7 +29,7 @@
   - Incluant :  
     - Une description.  
     - Des [critères d'acceptation](Glossaire.md#criteres-d-acceptation).  
-- **[Definition of Done](Glossaire.md#definition-of-done)** : Critères de validation des tâches.  
+- **[Definition of Done](Glossaire.md#definition-of-done-dod)** : Critères de validation des tâches.  
 - **Code** : Versionné, structuré et propre.  
 - **Comptes-rendus** :  
   - *Sprint Planning*.  

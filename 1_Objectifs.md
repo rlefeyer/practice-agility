@@ -10,7 +10,7 @@
 ## 2. Comprendre les rôles clés d’une équipe agile  
 - [Product Owner](Glossaire.md#product-owner) : Responsable de la vision produit et des priorités.  
 - [Scrum Master](Glossaire.md#scrum-master) : Facilitateur et garant de l'application de la méthode.  
-- [Équipe de développement](Glossaire.md#pequipe-de-développement) : Développeurs, testeurs, etc., responsables de la création des livrables.  
+- [Équipe de développement](Glossaire.md#équipe-de-développement) : Développeurs, testeurs, etc., responsables de la création des livrables.  
 
 ## 3. Participer activement aux cérémonies agiles  
 - Vivre les rituels agiles pour structurer le travail :  
