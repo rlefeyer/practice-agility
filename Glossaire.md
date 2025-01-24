@@ -1,49 +1,102 @@
-# Glossaire
+# Glossaire  
 
-## Backlog
-Une backlog est une liste de tâches prioritaires pour l'équipe de développement. Les éléments les plus importants sont affichés en haut de la liste afin que l'équipe sache quoi livrer en premier. Elle est priorisée par le Product Owner
+## Backlog  
+Une backlog est une liste de tâches ou de fonctionnalités à réaliser par l'équipe de développement. Ces tâches sont priorisées par le Product Owner pour garantir que l'équipe travaille sur les éléments ayant le plus de valeur. Les éléments les plus prioritaires sont en haut de la liste pour guider l'équipe sur ce qu'il faut livrer en premier.  
 
-## Daily Meeting
-Chaque jour à la même heure, l'équipe se réunit afin de mettre tout le monde au courant des informations vitales pour la coordination : avancement des tâches, difficultés rencontrées, ...
+## Burndown Chart
+Un graphique montrant la quantité de travail restante au fil du temps. Il permet de visualiser si l'équipe est en ligne avec les objectifs du sprint ou du projet.
 
-## Definition Of Done
-Le Definition Of Done (DoD) est une liste d'exigences auxquelles une user story doit répondre pour que l'équipe puisse la qualifier de terminée.
+## Critères d'acceptation  
+Les critères d'acceptation définissent les conditions spécifiques que doit remplir une user story pour être considérée comme terminée. Ils permettent de vérifier que la fonctionnalité répond bien aux besoins exprimés et aux attentes de l'utilisateur final.  
+
+## Daily Meeting  
+Le Daily Meeting (ou Stand-up) est une réunion quotidienne courte, tenue à la même heure chaque jour, où l'équipe partage les informations essentielles pour la coordination :  
+- Ce qui a été fait depuis la dernière réunion.  
+- Ce qui sera fait avant la prochaine.  
+- Les éventuelles difficultés ou blocages.  
 
 ## Déploiement continu
 Le déploiement continu est un procédé dans lequel les fonctionnalités sont livrées fréquemment par le biais de déploiements automatisés.
 
-## Equipe de développement
-L'équipe de développement, ce sont les personnes qui font le travail. Elle peut ne pas être composée uniquement de développeurs, d'autres profils peuvent en faire partie comme les testeurs, les designers, ...
+## Definition of Done (DoD)  
+Le Definition of Done (DoD) est une liste d'exigences ou de critères que chaque tâche ou user story doit respecter pour être considérée comme terminée. Elle garantit un haut niveau de qualité et une livraison conforme aux attentes.  
 
-## Feedback
-C'est un retour sur une expérience, sur une présentation d'une fonctionnalité du produit, sur l'exécution d'une tâche par une personne,... Le feedback doit être utilisé comme base d'amélioration.
+## Déploiement continu  
+Le déploiement continu est une pratique d'ingénierie logicielle où les modifications validées dans le code sont automatiquement mises en production à l'aide de pipelines de déploiement automatisés. Cela permet de livrer fréquemment des fonctionnalités avec un minimum de risques.  
 
-## Intégration continue
-L'intégration continue consiste à intégrer systématiquement les modifications de code dans la branche principale d'un référentiel et à tester les modifications, le plus tôt et le plus souvent possible.
+## Epic
+Une grande user story qui peut être divisée en plusieurs plus petites pour faciliter sa réalisation.
 
-## Product Owner
-La responsabilité du Product Owner est de s'assurer que l'équipe produise ce qui offre le plus de valeur. Le Product Owner dit à l'équipe de développement ce qu'il est important de livrer.
+## Équipe de développement  
+L'équipe de développement est composée des personnes responsables de la réalisation du produit. Bien qu'elle inclue principalement des développeurs, elle peut également comprendre des testeurs, des designers, des architectes, et d'autres profils nécessaires pour atteindre les objectifs.  
 
-## Scrum
-Scrum est un framework qui aide les équipes à travailler ensemble. Scrum encourage les équipes à apprendre à travers des expériences, à s'auto-organiser et à réfléchir pour s'améliorer continuellement.
+## Feedback  
+Le feedback est un retour d'information donné sur une tâche, une fonctionnalité ou une expérience. Il peut porter sur la qualité, la méthode ou le résultat. Utilisé correctement, le feedback est un levier important pour l'amélioration continue.  
 
-## Scrum Master
-Le Scrum Master est le rôle chargé de tout coller ensemble et de s'assurer que le cadre SCRUM est bien respecté. Concrètement, cela signifie qu'ils aident le Product Owner à définir la valeur, l'équipe de développement à délivrer la valeur et l'équipe Scrum à s'améliorer.
+## Intégration continue  
+L'intégration continue est une pratique qui consiste à intégrer fréquemment les modifications de code dans la branche principale d'un projet, tout en exécutant automatiquement des tests pour détecter rapidement les éventuelles erreurs ou conflits.  
 
-## Sprint Planning
-Le Sprint Planning est une cérémonie Scrum qui lance le sprint. Le but cette cérémonie est de définir ce qui peut être livré dans le sprint et comment ce travail sera réalisé. Le Sprint Planning se fait en collaboration avec toute l'équipe Scrum.
+## INVEST  
+Le modèle INVEST est un ensemble de critères pour créer des user stories efficaces et bien définies :  
+- **I**ndépendante : La user story peut être réalisée indépendamment des autres.  
+- **N**égociable : Elle peut être modifiée ou adaptée en fonction des besoins.  
+- **V**aleur : Elle apporte une réelle valeur métier.  
+- **E**stimable : Sa charge de travail peut être évaluée.  
+- **S**imple : Elle est suffisamment petite pour être complétée en un sprint.  
+- **T**estable : Elle inclut des critères d'acceptation vérifiables.  
 
-## Sprint Retrospective
-Une Sprint Retrospective est le moment où votre équipe réfléchit sur le sprint passé pour améliorer les prochains.
+## Kanban
+Un autre framework agile basé sur la visualisation des flux de travail. Il se concentre sur la limitation des tâches en cours et l'optimisation du flux.
 
-## Sprint Review
-Une Sprint Review consiste à démontrer le travail réalisé par toute l'équipe: designers, développeurs, testeurs et Product Owner. C'est le moment de poser des questions et de donner des feedbacks.
+## MVP (Minimum Viable Product)
+Une version minimale mais fonctionnelle d’un produit, développée pour obtenir rapidement du feedback et valider une idée.
 
-## Test de Non Régression
-Les Tests de Non Régression (TNR) ont pour but de s’assurer que les modifications et évolutions effectuées par les développeurs lors du dernier développement n’ont pas entrainé d’effet de bord, en altérant les parties du code non modifiées.
+## Product Owner  
+Le Product Owner est responsable de maximiser la valeur produite par l'équipe. Il gère la backlog, priorise les tâches et s'assure que l'équipe travaille sur les éléments les plus importants pour répondre aux besoins des utilisateurs.  
 
-## Test Unitaire
-Le test unitaire (TU) est une procédure permettant de vérifier le bon fonctionnement d'une partie précise d'un logiciel ou d'une portion d'un programme
+## Refinement
+Une réunion régulière où l'équipe examine et améliore les user stories du backlog, en les détaillant ou en clarifiant leurs critères d'acceptation.
 
-## User story
-Une user story est une explication d'une fonctionnalité logicielle écrite du point de vue de l'utilisateur final. Son but est de définir comment cette fonctionnalité apportera de la valeur à l'utilisateur final.
+## Scrum  
+Scrum est un framework agile qui structure le travail en itérations courtes et permet aux équipes de collaborer efficacement, de s'auto-organiser, et de s'améliorer continuellement grâce à des retours fréquents.  
+
+## Scrum Master  
+Le Scrum Master est le facilitateur du cadre Scrum. Il s'assure que les pratiques Scrum sont respectées, aide à éliminer les obstacles rencontrés par l'équipe, et encourage l'amélioration continue.  
+
+## SMART  
+Le modèle SMART est utilisé pour fixer des objectifs clairs et atteignables :  
+- **S**pécifique : L'objectif est précis et clair.  
+- **M**esurable : Il peut être évalué à l'aide de métriques ou de critères définis.  
+- **A**mbitieux : Il pousse à se dépasser tout en restant réaliste.  
+- **R**éaliste : Il est atteignable avec les ressources disponibles.  
+- **T**emporel : Il est limité dans le temps avec une échéance définie.  
+
+## Sprint  
+Un sprint est une période fixe (généralement de 1 à 4 semaines) durant laquelle l'équipe Scrum travaille pour livrer un incrément du produit. Chaque sprint commence par un Sprint Planning et se termine par une Sprint Review et une Sprint Retrospective.  
+
+## Sprint Goal
+Un objectif clair que l'équipe se fixe pour le sprint en cours, permettant de focaliser les efforts. Il répond à la question : *Que voulons-nous accomplir durant ce sprint ?*
+
+## Sprint Planning  
+Le Sprint Planning est une cérémonie Scrum qui lance le sprint. L'objectif est de décider :  
+- **Quoi faire** : Les user stories à réaliser pendant le sprint.  
+- **Comment faire** : La manière dont ces tâches seront accomplies.  
+
+## Sprint Retrospective  
+La Sprint Retrospective est une réunion qui clôt chaque sprint. L'équipe réfléchit sur le déroulement du sprint écoulé et identifie des actions d'amélioration pour les prochains sprints.  
+
+## Sprint Review  
+La Sprint Review est une démonstration du travail réalisé durant le sprint. L'équipe présente les fonctionnalités développées aux parties prenantes, recueille des feedbacks, et discute des étapes suivantes.  
+
+## Test de Non Régression (TNR)  
+Les Tests de Non Régression (TNR) s'assurent que les modifications ou évolutions récentes n'ont pas introduit de bugs ou altéré les fonctionnalités existantes du logiciel.  
+
+## Test Unitaire  
+Un test unitaire (TU) vérifie le bon fonctionnement d'une unité spécifique d'un programme (par exemple, une fonction ou une méthode) en isolant cette portion de code pour en tester la logique.  
+
+## User Story  
+Une user story est une description simple d'une fonctionnalité du point de vue de l'utilisateur final. Elle suit souvent le format :  
+*En tant que [utilisateur], je veux [fonctionnalité] afin de [bénéfice attendu]*.  
+
+## Vélocité
+Une mesure utilisée en Scrum pour estimer la quantité de travail qu'une équipe peut accomplir pendant un sprint, basée sur l'expérience passée.

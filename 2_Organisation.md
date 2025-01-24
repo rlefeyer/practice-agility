@@ -1,46 +1,62 @@
-# Organisation
+# Organisation  
 
-## 1. Equipes
- - X équipes de X personnes
- - Pas de Product Owner ou de Scrum Master dédié
- - Tout le monde pratique tous les rôles en simultané
+## 1. Équipes  
+- **Composition** : X équipes de X personnes.  
+- **Rôles** :  
+  - Pas de Product Owner ni de Scrum Master dédié.  
+  - **Tout le monde endosse tous les rôles simultanément** : Product Owner, Scrum Master, et membre de l’équipe de développement.  
 
-## 2. Planning
- - Durée : 3 jours / 6 sprints d'1/2 journée (une démo doit avoir lieu dès le 1er sprint)
- - Sprint : 1 Daily / Sprint planning, 1 Sprint Review et 1 Sprint retrospective
- - Méthodologie : Scrum
+## 2. Planning  
+- **Durée** : 3 jours, répartis en 6 sprints d'une 1/2 journée.  
+  - **1ère démo** : À la fin du 1er sprint.  
+- **Sprint** : Chaque sprint comprend :  
+  - 1 *Sprint Planning / Daily Meeting*.  
+  - 1 *Sprint Review*.  
+  - 1 *Sprint Retrospective*.  
+- **Méthodologie** : Scrum.  
 
-Objectif : Livrer plus, s'améliorer plus rapidement
+**Objectif** : Livrer davantage et s'améliorer plus rapidement à chaque itération.  
 
-## 3. Livrables
- - L'équipe : nom de l'équipe + nom et prénom des membres de l'équipe
- - Backlog priorisée
- - User Story : Done, In propgress, Identified
- - Definition Of Done
- - Code
- - CR des Sprint planning, Démo, Rétro
- - Board
- - Documentation technique et fonctionnelle
- - Realase Note
+## 3. Livrables  
+- **Équipe** : Nom de l’équipe et noms/prénoms des membres.  
+- **Backlog** : Une backlog priorisée.  
+- **User Stories** :  
+  - Organisées en :  
+    - *Done*  
+    - *In Progress*  
+    - *Ready*  
+    - *Identified*.  
+  - Incluant :  
+    - Une description.  
+    - Des [critères d'acceptation](Glossaire.md#criteres-d-acceptation).  
+- **[Definition of Done](Glossaire.md#definition-of-done)** : Critères de validation des tâches.  
+- **Code** : Versionné, structuré et propre.  
+- **Comptes-rendus** :  
+  - *Sprint Planning*.  
+  - *Démo*.  
+  - *Rétrospective*.  
+  - *Échanges avec le client*.  
+- **Board** : Une visualisation des tâches (Kanban, Scrum board, etc.).  
+- **Documentation** : Technique et fonctionnelle.  
+- **Release Notes** : Notes de publication détaillées pour chaque version.  
 
-**Tout versionner dans git!**
+**Tout doit être versionné dans Git !**
 
-## 4. Mes rôles
- - Client : je connais les utilisateurs et leurs problèmes, j'ai besoin de vous pour construire un produit qui réponde à leurs besoins
- - Evaluateur : je vais aussi devoir vous noter
- - Conseiller : Je suis aussi surtout là pour vous guider, vous aider :)
+## 4. Mes rôles  
+- **Client** :  
+  - Je représente les utilisateurs et leurs besoins.  
+  - Votre mission : construire un produit qui répond à ces attentes.  
+- **Évaluateur** :  
+  - J’évaluerai votre travail selon des critères précis (voir la section *Notation*).  
+- **Conseiller** :  
+  - Je suis là pour vous guider, répondre à vos questions et vous aider à surmonter les obstacles.  
 
-## 5. Notation
-Les critères:
- - Engagement
- - Capacité de mise en place de l'agilité et de l'amélioration continue (dans tous les domaines)
- - Volonté de s'industrialiser
- - Résultat
-
-5 points pour chaque critère!
-Date limite du dernier commit : Vendredi 17h!
-
-## 6. Review de la mise en pratique
-Rétro à chaque fin de journée, avec tous les participants, pour améliorer la mise en pratique tous ensemble.  
-Tous les sujets sont abordables : l'encadrant, les élèves, l'organisation du TP, les supports, vos difficultés, vos réussites ...  
-Nous allons utiliser ce site : https://metroretro.io/. Vous aurez besoin d'un compte!
+## 5. Notation  
+- **Critères** :  
+  1. **Engagement** : Votre implication et votre volonté de progresser tout en produisant un travail de qualité.  
+  2. **Mise en place de l’agilité** : Votre capacité à adopter et à améliorer les pratiques agiles.  
+  3. **Industrialisation** : Vos efforts pour automatiser (tests, déploiements, etc.).  
+  4. **Résultat final** : La qualité des livrables et du produit livré.  
+- **Barème** : 5 points par critère, pour un total sur 20 points.  
+- **Deadline** :  
+  - **Date limite du dernier commit : à la fin du dernier sprint !**  

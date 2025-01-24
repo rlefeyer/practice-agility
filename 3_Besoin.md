@@ -1,54 +1,71 @@
-# Besoin
+# Besoins
 
-## Cadre Technique
+## 1. Cadre Technique
+
 ### Obligatoire
-
- - Utilisation de Git pour versioner le code
- - Tests unitaires : présence obligatoire
- - Outil de surveillance de qualité du code : Sonar
- - Intégration continue
+- **Utilisation de Git** : Le code doit être versionné dans un dépôt Git, avec une gestion claire des branches et des commits.
+- **Tests unitaires** : Les fonctionnalités doivent être couvertes par des tests unitaires pour garantir leur fiabilité.
+- **Outil de surveillance de qualité du code** : Utilisation d’outils comme **SonarQube** ou **SonarCloud** pour analyser et améliorer la qualité du code.
+- **Intégration** : Automatiser les processus de test et d'intégration.
+- **Accessibilité** : Le service peut être fourni sous forme d’une **API** ou d’une **interface utilisateur (IHM)**.
 
 ### Optionnel
+- **Tests de non-régression** : Mettre en place des tests pour s'assurer que les nouvelles fonctionnalités n'altèrent pas le comportement existant.
+- **Déploiement continus** : Automatiser le processus de déploiement.
 
- - Tests fonctionnels de non régression
- - Déploiement continue
+## 2. Les Différents Besoins
 
-## Les différents besoins
 ### Connaître les lieux de sport
 
-Decathlon souhaite fournir à ses clients un nouveau service pour connaître l'ensemble des lieux permettant la pratique de sport (salle de sport, terrain de foot, parc, ...).
+**Objectif** : Fournir un service permettant aux clients de découvrir les lieux où pratiquer des activités sportives (salles de sport, terrains de sport, parcs, etc.).
 
-##### Les critères auxquels le service doit répondre
- - Fournir une liste des points d'intérêt sportif autour d'une position
- - Les lieux Decathlon font parties de la liste des points d'intérêt
- - Recherche par critères
- - L'affichage doit pouvoir se faire dans plusieurs langues
- - Le service doit permettre de gérer des notes et des commentaires sur ces lieux
+#### Critères obligatoires
+- Fournir une **liste des points d'intérêt sportifs** autour d'une position donnée.
+- Inclure systématiquement les lieux **Decathlon** dans les résultats.
+- Permettre une **recherche par critères** (type de sport, équipements disponibles, etc.).
+- Offrir un affichage disponible en **plusieurs langues**.
+- Gérer un système de **notes et commentaires** pour évaluer les lieux.
 
-##### En critères optionnels
- - Fournir les horaires d'ouvertures/fermeture
- - Fournir un moyen de contact
+#### Critères optionnels
+- Fournir les **horaires d'ouverture et de fermeture** des lieux.
+- Ajouter un **moyen de contact** (numéro de téléphone, email, etc.).
 
-Le service peut-être rendu accessible par une IHM ou une API
+**Accessibilité** : Le service peut être fourni sous forme d’une **API** ou d’une **interface utilisateur (IHM)**.
+
+---
 
 ### Gérer des indicateurs de santé
 
-Decathlon souhaite fournir à ses clients un nouveau service pour leur permettre de gérer l'ensemble des indicateurs de santé (poids, IMC, sommeil, fréquence cardiaque, ...).
+**Objectif** : Permettre aux clients de suivre et de gérer leurs indicateurs de santé (poids, IMC, sommeil, fréquence cardiaque, etc.).
 
-##### Les critères auxquels le service doit répondre
- - Permettre la saisie des données : poids, nombre de pas, durée du sommeil, fréquence cardiaque
- - Visualiser mes données de la journée en cours
- - Visualiser un historique de mes données
- - Gérer plusieurs unités (km, miles, kg, lb)
- - Gérer la sécurité des données
+#### Critères obligatoires
+- Permettre la **saisie des données** suivantes :
+  - Poids
+  - Nombre de pas
+  - Durée du sommeil
+  - Fréquence cardiaque
+- Afficher les **données de la journée en cours** de manière claire.
+- Fournir un **historique** des données pour un suivi longitudinal.
+- Gérer plusieurs unités de mesure (**km/miles**, **kg/lb**, etc.).
+- Assurer la **sécurité des données** pour protéger la vie privée des utilisateurs.
 
-##### En critères optionnels
- - Fournir des objectifs en fonction du type de personne (homme, femme)
- - Recueillir des données depuis un device (montre, bracelet connecté, ...)
- - Permettre la saisie des données : activités sportives, hydratation, stress
+#### Critères optionnels
+- Proposer des **objectifs personnalisés** en fonction du profil de l’utilisateur (sexe, âge, etc.).
+- Intégrer des données provenant de **dispositifs connectés** (montres, bracelets, etc.).
+- Permettre la saisie et le suivi des données supplémentaires :
+  - Activités sportives
+  - Hydratation
+  - Niveau de stress
 
-Le service peut-être rendu accessible par une IHM ou une API
+---
 
-### Nouvelles opportunités
+### Nouvelles Opportunités
 
-Decathlon est également à l'écoute de nouvelles opportunités qui pourraient leur permettre de fournir toujours plus de services à l'ensemble de ses clients
+**Objectif** : Laisser libre cours à l’imagination des étudiants pour proposer des idées innovantes qui répondraient aux besoins des clients Decathlon ou enrichiraient l’expérience utilisateur.
+
+#### Exemples d’idées possibles
+- Création d’un réseau social sportif pour organiser des activités en groupe.
+- Gamification de la pratique sportive (défis, récompenses virtuelles).
+- Outils d’analyse avancée pour la performance sportive.
+
+**Critères** : Les idées doivent être alignées sur les valeurs et les objectifs de Decathlon et doivent apporter une **valeur ajoutée claire** au client.
